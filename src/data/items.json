@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"iPhone 11",
+        "price":1700,
+        "imgUrl":"/imgs/iPhone11.jpg"
+    },
+    {
+        "id":2,
+        "name":"iPhone 13",
+        "price":1900,
+        "imgUrl":"/imgs/iPhone13.jpg"
+    },
+    {
+        "id":3,
+        "name":"iPhone 13 Pro",
+        "price":2000,
+        "imgUrl":"/imgs/iPhone13Pro.jpg"
+    },
+    {
+        "id":4,
+        "name":"iPhone X",
+        "price":1300,
+        "imgUrl":"/imgs/iPhoneX.jpg"
+    }
+    
+]
